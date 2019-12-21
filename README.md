@@ -15,7 +15,7 @@ The codes consist of following parts.
   3. Predicting timings of technology convergence via a variety of classification algorithms
   4. Validation using the k-fold cross validation
   
-![image](./timing_tc.png)
+![image](./timings_tc.png)
 
 
 
