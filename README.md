@@ -13,6 +13,7 @@ The codes consist of following parts.
   1. Data loading and pre-processing
   2. Defining and extracting ten node similarity measures
   3. Predicting timings of technology convergence via a variety of classification algorithms
+    3.1. Grid search for KNN, SVM, Random forest is included
   4. Validation using the k-fold cross validation
   
 ![image](./timings_tc.png)
